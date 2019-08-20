@@ -42,7 +42,7 @@ technicalSkills:
     - tr: "Backup software (Veeam, Unitrends, Nakivo, rsync)"
   backend:
    - name: Linux
-     level: 90
+     level: 100
    - name: Windows Server
      level: 90
   frontend:
