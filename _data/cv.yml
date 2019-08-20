@@ -32,15 +32,14 @@ career:
    accomplishments:
     - accomplishment:
     - accomplishment:
-
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Cyber Security (Kali, Nmap, Nessus)"
+    - tr: "Storage Systems (RAID, LVM, MDADM, ZFS, BTRFS)"
+    - tr: "Virtualization (VMware, Hyper-V, KVM)"
+    - tr: "Container Technologies (Docker, LXC)"
+    - tr: "Networking (TCP/IP, DNS, subnetting)"
+    - tr: "Backup software (Veeam, Unitrends, Nakivo, rsync)"
   backend:
    - name: Linux
      level: 90
