@@ -51,7 +51,7 @@ technicalSkills:
      level: 80
    - name: Apache/NGINX
      level: 80
-  scripting:
+  other:
    - name: Python
      level: 80
    - name: Powershell
