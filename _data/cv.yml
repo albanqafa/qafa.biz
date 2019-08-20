@@ -49,6 +49,8 @@ technicalSkills:
   frontend:
    - name: HTML/CSS
      level: 80
+   - name: Apache/NGINX
+     level: 80
   scripting:
    - name: Python
      level: 80
