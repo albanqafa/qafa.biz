@@ -1,0 +1,67 @@
+url: http://streetturtle.github.io
+projectUrl: jekyl-cv-crafter
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Alban Qafa
+  depiction: headshot.png
+  profession: System Administration
+  location: Commerce Twp. MI
+  citizenship: USA
+  email: Alban@Qafa.biz
+  site: http://qafa.biz
+  phone: 248-425-1705
+  github: /albanqafa
+  stackoverflow: 
+  linkedin: 
+
+career:
+ - position: Network Technician
+   company: Detroit Public Television
+   location: Wixom, MI
+   dates: September 2016 - current
+   summary: Working as the second half of an IT Department ocmprised of 2 people supporting employees and guests across 3 locations. I work in unison with the IT Manager on administration of server and network infrastructure. Normal tasks include coordinating and executing hardware refreshes, managing Windows and MacOS workstations, a VMware ESXi environment, a Windows domain environment, Microsoft Exchange, Linux file servers and backup systems. Other duties in my job include patch management of endpoints and servers, maintaining and creating proper documentation of our various systems, as well as managing VoIP, email systems, and various website integrations.
+      accomplishments:
+    - accomplishment: Taking the load time of DPTV's main website from 14 seconds to 2 seconds with use of modern web technologies like CloudFlare
+    - accomplishment: Building 3 high-performance storage servers utilizing Open-Source technologies to create a multi-site backup system with ~149TB of space for backups, with full deduplication and the latest in filesystem technologies (ZFS, BTRFS)
+    - accomplishment: Created and implemented various PowerShell and Python scripts to automate database management, scheduled email reporting on security vulnerabilities, and email reporting of high-privlege access to secure network resources.
+    - accomplishment: Implementing modern email security technologies to increase email deliverability and minimize blacklist status (SPF, DMARC, DKIM)
+    - accomplishment: Working for our communications department and webmaster in implementing email marketing systems, pop-up based subscription services, and google tag manager to DPTV websites
+    
+technicalSkills:
+  list:
+    - tr: "Impulsive, creative and very social"
+    - tr: "Heart and soul of the Ninja Turtles"
+    - tr: "Master of the Kusarigama and nunchucks"
+    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
+    - tr: "First of the turtles to taste pizza"
+    - tr: "Very proud of his talent for naming thing"
+  backend:
+   - name: Linux
+     level: 90
+   - name: Windows Server
+     level: 90
+  frontend:
+   - name: HTML/CSS
+     level: 80
+  scripting:
+   - name: Python
+     level: 80
+   - name: Powershell
+     level: 70
+   - name: Bash/Linux scripting
+     level: 80
+
+sideProjects:
+  - name: REMOTE_DUDE
+    description: A Windows Remote Administration tool
+    link: https://github.com/albanqafa/REMOTE-DUDE
+    type: github
+    langs: Batch/Powershell
+
+education:
+  - name: Oakland Community College
+    degree: Not yet finished
+    location: Farmington Hills, MI
+    dates: 2013-2016
+    link: 
