@@ -54,25 +54,24 @@ technicalSkills:
      level: 80
    - name: Powershell
      level: 70
-   - name: Bash/Linux scripting
-     level: 80
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
+  - name: REMOTE_DUDE
+    description: A Windows Remote Administration tool
+    link: https://github.com/albanqafa/REMOTE-DUDE
     type: github
-    langs: HTML/CSS/Bootstrap
+    langs: Batch/Powershell
 
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+  - name:
+    description:
+    link:
+    type:
+    langs:
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Oakland Community College
+    degree: Not yet finished
+    location: Farmington Hills, MI
+    dates: 2013-2016
+    link: 
+    
