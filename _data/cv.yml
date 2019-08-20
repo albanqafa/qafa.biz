@@ -21,7 +21,7 @@ career:
    location: Wixom, MI
    dates: September 2016 - current
    summary: Working as the second half of an IT Department ocmprised of 2 people supporting employees and guests across 3 locations. I work in unison with the IT Manager on administration of server and network infrastructure. Normal tasks include coordinating and executing hardware refreshes, managing Windows and MacOS workstations, a VMware ESXi environment, a Windows domain environment, Microsoft Exchange, Linux file servers and backup systems. Other duties in my job include patch management of endpoints and servers, maintaining and creating proper documentation of our various systems, as well as managing VoIP, email systems, and various website integrations.
-    - accomplishment: Taking the load time of DPTV's main website from 14 seconds to 2 seconds with use of modern web technologies like CloudFlare
+    - accomplishment: Taking the load time of the DPTV main website from 14 seconds to 2 seconds with use of modern web technologies like CloudFlare
     - accomplishment: Building 3 high-performance storage servers utilizing Open-Source technologies to create a multi-site backup system with ~149TB of space for backups, with full deduplication and the latest in filesystem technologies (ZFS, BTRFS)
     - accomplishment: Created and implemented various PowerShell and Python scripts to automate database management, scheduled email reporting on security vulnerabilities, and email reporting of high-privlege access to secure network resources.
     - accomplishment: Implementing modern email security technologies to increase email deliverability and minimize blacklist status (SPF, DMARC, DKIM)
