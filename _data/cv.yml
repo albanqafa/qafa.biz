@@ -58,12 +58,6 @@ sideProjects:
     type: github
     langs: Batch/Powershell
 
-  - name:
-    description:
-    link:
-    type:
-    langs:
-
 education:
   - name: Oakland Community College
     degree: Not yet finished
