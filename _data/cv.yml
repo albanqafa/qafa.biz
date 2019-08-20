@@ -34,7 +34,7 @@ technicalSkills:
     - tr: "Virtualization (VMware, Hyper-V, KVM)"
     - tr: "Container Technologies (Docker, LXC)"
     - tr: "Networking (TCP/IP, DNS, subnetting)"
-    - tr: "Backup software (Veeam, Unitrends, Nakivo, rsync)"
+    - tr: "Backup Software (Veeam, Unitrends, Nakivo, rsync)"
   backend:
    - name: Linux
      level: 100
