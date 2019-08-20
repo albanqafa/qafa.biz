@@ -26,7 +26,7 @@ career:
     - accomplishment: Building 3 high-performance storage servers utilizing Open-Source technologies to create a multi-site backup system with 140TB of space for backups, with full deduplication and modern filesystem technologies (ZFS, BTRFS)
     - accomplishment: Created and implemented various PowerShell and Python scripts to automate database management, scheduled email reporting on security vulnerabilities, and email reporting of high-privlege access to secure network resources
     - accomplishment: Implementing modern email security technologies to increase email deliverability and minimize blacklist status (SPF, DMARC, DKIM)
-    - accomplishment: Working with our social team and webmaster to implement multiple email marketing systems, pop-up based subscription services, and google tag manager to DPTV websites
+    - accomplishment: Working with our social team and webmaster to implement multiple email marketing systems, pop-up based subscription services, and Google tag manager to DPTV websites
 technicalSkills:
   list:
     - tr: "Cyber Security (Kali, Nmap, Nessus)"
