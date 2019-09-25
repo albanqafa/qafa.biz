@@ -5,7 +5,7 @@ projectUrl: jekyl-cv-crafter
 person:
   name: Alban Qafa
   depiction: headshot.png
-  profession: System Administraton
+  profession: Information Technology
   location: Commerce Twp. MI
   citizenship: USA
   email: Alban@Qafa.biz
@@ -16,7 +16,7 @@ person:
   linkedin:
 
 career:
- - position: Network Technician
+ - position: System Administrator
    company: Detroit Public Television
    location: Wixom, MI
    dates: April 2016 - current
