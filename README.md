@@ -1,3 +1,14 @@
+# My Resume
+
+Original template is from [![here](https://github.com/streetturtle/jekyll-cv-crafter)]
+
+Some slight changes have been made to the bootstrap columns so that the page looks better on mobile.
+
+Besides that, this repo is how I keep my most up-to-date resume centralized and hosted on my [![website](https://qafa.biz)] 
+(printing websites as PDF's is pretty useful)
+
+Below is the original authors README:
+
 # Jekyll CV Crafter
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-cv-crafter.svg)](https://badge.fury.io/rb/jekyll-cv-crafter)
