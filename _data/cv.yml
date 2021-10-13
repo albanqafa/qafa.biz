@@ -29,6 +29,8 @@ career:
     - accomplishment: Single-handedly planned and executed an Office 365 hybrid migration of the companies Windows domain and Exchange services
 technicalSkills:
   list:
+    - tr: "Authentication (Active Directory, Azure AD, Duo, SAML, SSO)"
+    - tr: "Scripting (PowerShell, Javascript, Python, Bash)"
     - tr: "Cyber Security (Kali, Nmap, Nessus)"
     - tr: "Storage Systems (RAID, LVM, MDADM, ZFS, BTRFS)"
     - tr: "Virtualization (VMware, Hyper-V, KVM)"
